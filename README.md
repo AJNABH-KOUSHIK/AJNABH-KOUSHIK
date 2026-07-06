@@ -19,13 +19,13 @@
 - ⚡ Fun fact: I enjoy solving coding problems and building real-world systems
 
 ---
-## 🌐 Connect With Me
+## 🌐 Socials:
 
 <p align="left">
 <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://github.com/AJNABH-KOUSHIK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a><a href="mailto:ajnabhb.ug24.cs@nitp.ac.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://leetcode.com/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a><a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack:
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
