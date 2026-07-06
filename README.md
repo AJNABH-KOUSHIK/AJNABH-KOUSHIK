@@ -1,5 +1,7 @@
 <!-- ======================= HEADER ======================= -->
-
+<div align="center">
+  <img width="100%" src="./assets/header.svg"/>
+</div>
 <div align="center">
 
 # Hi 👋, I'm Ajnabh Koushik
@@ -90,7 +92,9 @@
 `Java` `OOPS`
 
 ---
-
+<div align="center">
+  <img width="100%" src="./assets/footer.svg"/>
+</div>
 # 📚 Coursework
 
 ```text
@@ -100,3 +104,6 @@ DBMS
 Operating Systems
 Computer Networks
 System Design
+
+
+
