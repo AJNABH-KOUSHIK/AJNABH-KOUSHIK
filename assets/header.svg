@@ -62,13 +62,13 @@
 
     <!-- title -->
     <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-size="56" font-weight="800" fill="url(#titleGrad)">
-      Aashish (Khadush)
+      Ajnabh Koushik 
       <animate attributeName="opacity" values="0;1" dur="1.4s" begin="0.2s" fill="freeze"/>
     </text>
 
     <!-- subtitle -->
     <text x="450" y="172" text-anchor="middle" font-family="'Segoe UI',Verdana,Arial,sans-serif" font-size="20" font-weight="600" fill="#c9d6e5">
-      🪄 Generative AI Specialist · 🎮 Vibe Coder · 🎬 Content Creator
+      ☕ Java Developer | ⚡ DSA Problem Solver | 🌐 Full Stack Developer
       <animate attributeName="opacity" values="0;1" dur="1.4s" begin="0.8s" fill="freeze"/>
     </text>
 
