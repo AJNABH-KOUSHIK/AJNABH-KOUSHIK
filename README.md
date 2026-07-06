@@ -16,7 +16,6 @@
 - 🌱 Currently learning **Backend Development & System Design**
 - 💡 Interested in **Java, DSA, OOPS, DBMS, OS, and Computer Networks**
 - 🚀 Building projects using **Java, React, Node.js, MySQL**
-- 🏆 JEE Mains Rank: **18015**
 - ⚡ Fun fact: I enjoy solving coding problems and building real-world systems
 
 ---
