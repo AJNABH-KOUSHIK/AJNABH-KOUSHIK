@@ -4,11 +4,6 @@
 </div>
 <div align="center">
 
-# Hi 👋, I'm Ajnabh Koushik
-
-### 🚀 CSE Undergraduate at NIT Patna  
-### 💻 Java Developer | DSA Enthusiast | Backend Learner
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Backend+Development;Problem+Solver;Open+Source+Learner" />
 
 </div>
