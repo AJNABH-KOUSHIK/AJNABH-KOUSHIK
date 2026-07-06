@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ajnabh Koushik</h1>
 
-<!--
-**AJNABH-KOUSHIK/AJNABH-KOUSHIK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Software Developer from India</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Learning Java, DSA and Python
+- 💻 Interested in Backend Development
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+### 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AJNABH-KOUSHIK&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AJNABH-KOUSHIK&layout=compact&theme=tokyonight)
