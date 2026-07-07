@@ -86,6 +86,7 @@ Operating Systems
 Computer Networks
 System Design
 ```
+---
 
 <div align="center">
   <img width="100%" src="./assets/footer.svg"/>
